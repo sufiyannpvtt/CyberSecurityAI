@@ -1,0 +1,14 @@
+Tool Used: Wireshark
+Filter Used: http
+
+Observation:
+- HTTP requests and responses were visible in plain text
+- Headers and URLs were readable
+
+OSI Layers:
+- Application Layer: HTTP
+- Transport Layer: TCP
+- Network Layer: IP
+
+Conclusion:
+HTTP traffic is not encrypted and can be easily read by attackers.

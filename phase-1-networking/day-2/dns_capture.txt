@@ -1,0 +1,12 @@
+Tool Used: Wireshark
+Filter Used: dns
+
+Observation:
+- DNS query packets were captured when accessing google.com
+- DNS response returned the corresponding IP address
+
+OSI Layer:
+- Application Layer (DNS)
+
+Conclusion:
+DNS resolves domain names to IP addresses before communication begins.

@@ -1,0 +1,14 @@
+Tool Used: Wireshark
+Filter Used: tls
+
+Observation:
+- HTTPS packets were captured but content was encrypted
+- Data payload was not readable
+
+OSI Layers:
+- Application Layer: TLS
+- Transport Layer: TCP
+- Network Layer: IP
+
+Conclusion:
+HTTPS secures communication using encryption.
