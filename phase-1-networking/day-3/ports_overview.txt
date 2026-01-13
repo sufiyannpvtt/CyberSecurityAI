@@ -1,0 +1,9 @@
+Common Ports and Services:
+
+21  - FTP
+22  - SSH
+53  - DNS
+80  - HTTP
+443 - HTTPS
+
+Ports act as entry points for different network services.

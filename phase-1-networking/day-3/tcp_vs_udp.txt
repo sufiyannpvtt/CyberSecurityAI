@@ -1,0 +1,12 @@
+TCP:
+- Connection-oriented protocol
+- Reliable and ordered delivery
+- Used in HTTP, HTTPS, SSH, FTP
+
+UDP:
+- Connectionless protocol
+- Faster but unreliable
+- Used in DNS, video streaming, online gaming
+
+Conclusion:
+TCP focuses on reliability, while UDP focuses on speed.
