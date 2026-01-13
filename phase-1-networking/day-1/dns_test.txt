@@ -1,0 +1,16 @@
+Command 1:
+ping google.com
+
+Observation:
+- google.com resolved to IP address (DNS working)
+- Replies received successfully
+
+Command 2:
+ping 8.8.8.8
+
+Observation:
+- Direct IP ping worked without DNS
+- Confirms internet connectivity
+
+Conclusion:
+DNS converts domain names into IP addresses so systems can communicate.

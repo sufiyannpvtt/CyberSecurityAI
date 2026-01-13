@@ -1,0 +1,10 @@
+Command Used:
+traceroute google.com
+
+Observation:
+- Multiple hops (routers) between my system and Google servers
+- Each hop represents a network device forwarding packets
+
+Explanation:
+Traceroute shows the path taken by packets from client to server.
+Useful for network troubleshooting and understanding routing.

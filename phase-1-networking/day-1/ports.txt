@@ -1,0 +1,14 @@
+Command Used:
+ss -tuln
+
+Observation:
+- LISTEN ports detected on the system
+- Ports represent services running on the machine
+
+Example:
+- Port 22 → SSH
+- Port 80 → HTTP
+- Port 443 → HTTPS
+
+Conclusion:
+Ports identify specific services running on a server.

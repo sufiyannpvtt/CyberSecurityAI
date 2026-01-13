@@ -1,0 +1,11 @@
+Command Used:
+ip a
+
+Result:
+- Interface: eth0
+- IPv4 Address: 192.168.1.12
+- Netmask: 255.255.255.0
+
+Explanation:
+This shows my local system IP address assigned by the router.
+The IP identifies my machine on the local network.
