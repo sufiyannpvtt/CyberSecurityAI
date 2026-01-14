@@ -1,0 +1,8 @@
+Hardening Steps:
+- Firewall enabled
+- Unused ports blocked
+- SSH allowed explicitly
+- Principle of least privilege applied
+
+Conclusion:
+Basic hardening improves system security.

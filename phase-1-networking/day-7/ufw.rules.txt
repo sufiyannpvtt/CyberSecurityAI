@@ -1,0 +1,12 @@
+Commands:
+ufw enable
+ufw default deny incoming
+ufw allow ssh
+ufw allow 80
+ufw allow 443
+
+Observation:
+Only required ports are allowed.
+
+Conclusion:
+UFW reduces attack surface.
