@@ -1,0 +1,8 @@
+File: /var/log/syslog
+
+Observation:
+- System services and kernel messages logged
+- Errors and warnings can be identified
+
+Conclusion:
+syslog provides overall system health information.

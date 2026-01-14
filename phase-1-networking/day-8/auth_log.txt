@@ -1,0 +1,8 @@
+File: /var/log/auth.log
+
+Observation:
+- User login and sudo events recorded
+- Failed and successful authentication attempts visible
+
+Conclusion:
+auth.log helps track authentication activity.

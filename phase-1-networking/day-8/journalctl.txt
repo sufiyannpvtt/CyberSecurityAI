@@ -1,0 +1,8 @@
+Tool: journalctl
+
+Observation:
+- Centralized logging for systemd services
+- Can filter by boot and service
+
+Conclusion:
+journalctl is powerful for modern log analysis.
