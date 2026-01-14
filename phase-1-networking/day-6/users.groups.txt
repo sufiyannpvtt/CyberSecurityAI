@@ -1,0 +1,8 @@
+Commands:
+whoami, groups, adduser, groupadd, usermod
+
+Observation:
+Users belong to groups; groups control access.
+
+Conclusion:
+User-group management improves system security.

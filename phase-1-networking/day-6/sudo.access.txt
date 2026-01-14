@@ -1,0 +1,8 @@
+Command:
+sudo -l
+
+Observation:
+sudo access is limited and logged.
+
+Conclusion:
+sudo provides controlled admin privileges.

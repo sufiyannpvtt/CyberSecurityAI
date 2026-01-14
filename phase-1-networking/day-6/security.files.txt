@@ -1,0 +1,8 @@
+Files:
+ /etc/passwd, /etc/shadow, /etc/group
+
+Observation:
+Passwords are protected in /etc/shadow.
+
+Conclusion:
+Linux separates credentials from public user data.
