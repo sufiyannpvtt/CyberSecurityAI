@@ -1,0 +1,8 @@
+Command Used: ping google.com
+
+Observation:
+- ICMP replies received
+- Average latency observed
+
+Conclusion:
+System has active internet connectivity.

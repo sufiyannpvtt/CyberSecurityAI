@@ -1,0 +1,8 @@
+Command Used: arp -a / ip neigh
+
+Observation:
+- Local devices listed with IP and MAC
+- Shows ARP resolution
+
+Conclusion:
+ARP maps IP addresses to MAC addresses on LAN.

@@ -1,0 +1,8 @@
+Command Used: traceroute google.com
+
+Observation:
+- Multiple hops between client and server
+- Delay increases across hops
+
+Conclusion:
+Traceroute helps identify network path issues.

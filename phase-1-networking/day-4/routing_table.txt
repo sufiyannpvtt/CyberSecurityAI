@@ -1,0 +1,8 @@
+Command Used: ip route
+
+Observation:
+- Default gateway identified
+- Network routes listed
+
+Conclusion:
+Routing table decides packet forwarding.
