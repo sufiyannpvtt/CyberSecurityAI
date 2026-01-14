@@ -1,0 +1,8 @@
+Command Used: ps aux, top
+
+Observation:
+- Each running program has a PID
+- top shows real-time CPU and memory usage
+
+Conclusion:
+Processes help monitor and manage system resources.

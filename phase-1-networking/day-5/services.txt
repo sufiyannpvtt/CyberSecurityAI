@@ -1,0 +1,8 @@
+Command Used: systemctl
+
+Observation:
+- Services run in background
+- Services can be checked, started, or stopped
+
+Conclusion:
+Services manage system-level functionality.

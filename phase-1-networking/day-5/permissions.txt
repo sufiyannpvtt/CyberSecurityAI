@@ -1,0 +1,8 @@
+Command Used: ls -l, chmod
+
+Observation:
+- Permissions control file access
+- chmod modifies read/write/execute rights
+
+Conclusion:
+Linux permissions protect files from unauthorized access.
